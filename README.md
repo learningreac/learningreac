@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Bai. I used to be a UX researcher, now a full-time mom with two little one.
 - 👀 I’m interested in developing apps to improve efficiency and understading in real life. 
 - 🌱 I’m currently learning fullstack developing with state of the art technologies.
-- 💞️ I’m looking to collaborate on developing fulltack projects.
+- 💞️ I’m looking for an intern or entry level position for Fullstack Developer.
 - 📫 Reach me at zzfggg16@gmail.com
 
 <!---
