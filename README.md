@@ -1,8 +1,8 @@
-- 👋 Hi, I’m Bai. I used to be a UX researcher, now a full-time mom with two little one.
-- 👀 I’m interested in developing apps to improve efficiency and understading in real life. 
-- 🌱 I’m currently learning fullstack developing with state of the art technologies.
-- 💞️ I’m looking for an intern or entry level position for Fullstack Developer.
-- 📫 Reach me at zzfggg16@gmail.com
+- 👋 Hi, I’m Bai. I used to be a UX researcher, now a Freelance Full Stack Developer.
+- 👀 I’m interested in developing apps to improve efficiency and understading, especially in Visiualization. 
+- 🌱 I have 3 years of full stack developing experiences with morden frameworks and libs.
+- 💞️ Besides work, I love explore the nature and connect with people with my family.
+- 📫 Reach me if you have open opportunities or any questions at zzfggg16@gmail.com
 
 <!---
 learningreac/learningreac is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
