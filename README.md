@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Bai. I was a UX researcher, now a Freelance Full Stack Developer.
 - 👀 I’m interested in developing apps to improve efficiency and understading, especially in Visiualization. 
 - 🌱 I have 3 years of full stack developing experiences with morden frameworks and libs.
-- 💞️ Besides work, I love explore the nature and connect with people with my family.
+- 💞️ Besides work, I love to explore the nature and connect with people with my family.
 - 📫 Reach me if you have open opportunities or any questions at zzfggg16@gmail.com
 
 <!---
