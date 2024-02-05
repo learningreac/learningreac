@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Hong. I was a UX researcher, now a Freelance Full Stack Developer.
+- 👋 Hi, I’m Hong. I am a Freelance Full Stack Developer.
 - 👀 I’m interested in developing apps to improve efficiency and understading, especially in Visiualization. 
 - 🌱 I have 3 years of full stack developing experiences with morden frameworks and libs.
 - 💞️ Besides work, I love to explore the nature and connect with people with my family.
